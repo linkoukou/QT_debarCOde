@@ -1,2 +1,2 @@
 # QT_debarCOde
-A debarcode software for nanopore sequencing.
+A debarcode tools for nanopore sequencing.
